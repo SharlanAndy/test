@@ -1,6 +1,6 @@
 import { SettingsObject, SettingsType } from './types'
 
-const BASE_URL = 'https://6048d5d60d4b661c357812b4--gallant-murdock-ef7526.netlify.app'
+const BASE_URL = 'https://gallant-murdock-ef7526.netlify.app'
 const settings: SettingsObject[] = [
   {
     name: 'ifos',
